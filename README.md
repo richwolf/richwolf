@@ -2,8 +2,8 @@
 - 🤓 I’m interested in all aspects of development for [Apple][3] platforms…including [server-side Swift][4] and [Swift for AWS Lambda][5]. In addition, I try to follow trends in server-side and client-side web development…cool stuff like [Rust][6], [WebAssembly][7] and [Deno][8].
 - 📚 I’m currently trying to deepen my knowledge and use of [Swift][9], [SwiftUI][10], and [Combine][11]. I’m also trying to come up to speed on [Android development][12] (including overcoming the [Android NDK][13])…wait, say what!?
 - 🛠 I’m looking to collaborate on projects focusing on transit…especially things involving [GTFS][14]—the General Transit Feed Specification.
-- 👨🏼‍💻 To pay my bills, I recently joined a team of ridiculously nice people over at [Helium Foot Software][15]. I’m learning a **ton** while doing my best to help my teammates make awesome iOS and Android apps.
-- 🎓 Before joining Helium Foot, I wrote APIs and server-side [Node.js][16] / [Express][17] apps for the [Technology Solutions][18] department of the [University of Illinois Chicago][19]. I will always have a soft spot for my friends at UIC.
+- 👨🏼‍💻 Until just recently, I worked with a team of very nice people over at [Helium Foot Software][15] on iOS and iPadOS applications.
+- 🎓 Before working at Helium Foot, I wrote APIs and server-side [Node.js][16] / [Express][17] apps for the [Technology Solutions][18] department of the [University of Illinois Chicago][19]. I will always have a soft spot for my friends at UIC.
 - 🎟 I’ve attended [WWDC][20] twenty-two times in person. My first WWDC was in 1994.
 - 🇩🇪 Ich kann [deutsch][21]…aber leider nicht fließend. Servus, 🇨🇭! …🇦🇹, ich liebe dich!
 - 🛌 Honest I’m **easily** the laziest person you know!
