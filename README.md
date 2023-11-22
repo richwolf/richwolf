@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m [@richwolf][1]…um either “Rich” or “Richard” is good…whichever fits you better. I live in [Edgewater][2]…a warm, fun, friendly place on the far north side of Chicago.
+- 👋🏻 Hi, I’m [@richwolf][1]…um either “Rich” or “Richard” is good…whichever fits you better. I live in [Edgewater][2]…a relaxed, fun, friendly place on the far north side of Chicago.
 - 🤓 I’m interested in all aspects of development for [Apple][3] platforms…including [server-side Swift][4] and [Swift for AWS Lambda][5]. In addition, I try to follow trends in server-side and client-side web development…cool stuff like [Rust][6], [WebAssembly][7] and [Deno][8].
 - 📚 I’m currently trying to deepen my knowledge and use of [Swift][9], [SwiftUI][10], and [Combine][11]. I’m also trying to come up to speed on [Android development][12] (including overcoming the [Android NDK][13])…wait, say what!?
 - 🛠 I’m looking to collaborate on projects focusing on transit…especially things involving [GTFS][14]—the General Transit Feed Specification.
@@ -9,7 +9,7 @@
 - 🛌 Honest I’m **easily** the laziest person you know!
 - 👍🏻 I **really, really** love ☕️ …and 🍺 …and 🍕 …and maybe a few other things that aren’t so good for me. 
 - 🎵 And yes, I **am** learning [how to play the harp][22]…and oh hey, [Unicode Consortium][23], where’s that harp emoji when I need it?
-- 📫 Here’s how to reach me via [email][24] or on [Twitter][25].
+- 📫 Here’s how to reach me via [email][24] or on [X][25].
 
 [1]:  https://github.com/richwolf "Rich’s GitHub Profile"
 [2]:  https://en.wikipedia.org/wiki/Edgewater,_Chicago "Edgewater"
@@ -35,4 +35,4 @@
 [22]:  https://muziker.org/private-music-lessons-and-workshops/ "Annette Bjorling Harp Lessons"
 [23]:  https://home.unicode.org "Unicode Consortium"
 [24]:  mailto:richwolf@me.com "Rich’s Email"
-[25]:  http://twitter.com/richwolf "Rich’s Twitter Feed"
+[25]:  http://x.com/richwolf "Rich’s X Feed"
